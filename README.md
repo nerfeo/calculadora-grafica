@@ -1,3 +1,3 @@
 # calculadora-grafica
 #
-#De Barri
+De Barri
